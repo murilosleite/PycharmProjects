@@ -4,4 +4,4 @@ t = num*3
 r = num**(1/2)
 print('O dobro de {} é: {}'.format(num, d))
 print('O triplo de {} é: {}'.format(num, t))
-print('A raiz quadrada de {} é: {}'.format(num, r)
+print('A raiz quadrada de {} é: {}'.format(num, r))
